@@ -23,3 +23,5 @@ Reduce inventory risks
 Analyze seasonal and customer buying patterns
 
 Dashboard View - https://github.com/Ayaz303/Sales-Forecasting-/blob/main/Screenshot%202026-05-24%20215437.png
+
+Forecast View - https://github.com/Ayaz303/Sales-Forecasting-/blob/main/Screenshot%202026-05-24%20215554.png
